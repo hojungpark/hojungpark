@@ -4,10 +4,9 @@
 
   
 <h2 align="center">About Me</h2>
-
-Hi 👋, I'm James, below is the a two version of information about me.
+Hi 👋!, I'm James. If you're here reviewing my application, I appreciate your time! Feel free to explore my profile in a way that suits your schedule:
 <details>
-  
+    <summary>"I've got other candiadates to look into"</summary>
 </details>
 
 <!-- Projects -->
