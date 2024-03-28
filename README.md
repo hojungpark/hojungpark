@@ -12,7 +12,7 @@ During my 8-month tenure as a Software Developer in Test, I developed a keen ins
 I'm currently seeking opportunities to expand my horizons in a cloud based role, where I can leverage my skills in cloud computing and automation to drive digital transformation and operational excellence.
 <!-- Projects -->
 
-<h2 align "center">Skills</h2>
+<h2 align="center">Skills</h2>
 - Languages: Java, Python, TypeScript
 - Cloud Providers: AWS, GCP
 - CI/CD: Jenkins, Gitlab CI
