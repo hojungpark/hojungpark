@@ -13,6 +13,7 @@ I'm currently seeking opportunities to expand my horizons in a cloud based role,
 <!-- Projects -->
 
 <h2 align="center">Skills</h2>
+
 - Languages: Java, Python, TypeScript
 - Cloud Providers: AWS, GCP
 - CI/CD: Jenkins, Gitlab CI
