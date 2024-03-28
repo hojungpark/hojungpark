@@ -9,15 +9,10 @@ Hi 👋, I'm Hojung (James), a fourth-year Computer Science student at Simon Fra
 
 During my 8-month tenure as a Software Developer in Test, I developed a keen insight into automating testing processes, ensuring software reliability, and implementing best practices in quality assurance. These experiences have laid a solid foundation for my journey into cloud engineering by highlighting the importance of automation, continuous integration/delivery (CI/CD), and system reliability.
 
-I'm currently seeking opportunities to expand my horizons in a cloud based role, where I can leverage my skills in cloud computing and automation to drive digital transformation and operational excellence.
+My technical strengths are deeply rooted in cloud infrastructure technologies, automation scripting with Python, and container orchestration with Kubernetes. I excel in architecting and managing scalable cloud environments, leveraging my expertise in GCP to design resilient and cost-effective solutions. Whether it's optimizing cloud resources for efficiency, implementing robust CI/CD pipelines for seamless software delivery, or securing cloud architectures against evolving threats, I'm committed to driving digital transformation and operational excellence.
+
+I'm currently seeking opportunities to expand my horizons in a cloud based role, aiming to utilize my proficiency in cloud computing and automation to enhance operational efficiency.
 <!-- Projects -->
-
-<h2 align="center">Skills</h2>
-
-- Languages: Java, Python, TypeScript
-- Cloud Providers: AWS, GCP
-- CI/CD: Jenkins, Gitlab CI
-- Containerization: Docker, Kubernetes
 
 <h2 align="center">What I'm up To</h2>
 
