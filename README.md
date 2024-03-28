@@ -5,13 +5,11 @@
   
 <h2 align="center">About Me</h2>
 
-Hi 👋, I'm Hojung (James), a fourth-year Computer Science student at Simon Fraser University, deeply interested in the transformative power of cloud technologies in software development and deployment. My passion for technology drives me to constantly explore and adapt to new advancements, preparing me for a pivotal transition from Software Development Testing to Cloud Engineering.
+Hi 👋, I'm Hojung (James), a fourth-year Computer Science student at Simon Fraser University, deeply interested in the transformative power of cloud technologies in software development and deployment. My experience includes a Software Developer in Test Internship at Atimi Software, where I contributed to enhancing system reliability, streamlining communication, and adapting to the fast-paced nature of agile development.
 
-During my 8-month tenure as a Software Developer in Test, I developed a keen insight into automating testing processes, ensuring software reliability, and implementing best practices in quality assurance. These experiences have laid a solid foundation for my journey into cloud engineering by highlighting the importance of automation, continuous integration/delivery (CI/CD), and system reliability.
+My technical strengths lies in python, docker, and Kubernetes. I excel in architecting and managing scalable cloud environments, leveraging my expertise in GCP to design resilient and cost-effective solutions. Whether it's optimizing cloud resources for efficiency, implementing robust CI/CD pipelines for seamless software delivery, or securing cloud architectures against evolving threats, I'm committed to driving digital transformation and operational excellence.
 
-My technical strengths are deeply rooted in cloud infrastructure technologies, automation scripting with Python, and container orchestration with Kubernetes. I excel in architecting and managing scalable cloud environments, leveraging my expertise in GCP to design resilient and cost-effective solutions. Whether it's optimizing cloud resources for efficiency, implementing robust CI/CD pipelines for seamless software delivery, or securing cloud architectures against evolving threats, I'm committed to driving digital transformation and operational excellence.
-
-I'm currently seeking opportunities to expand my horizons in a cloud based role, aiming to utilize my proficiency in cloud computing and automation to enhance operational efficiency.
+I'm on a mission to land a cloud based role, aiming to utilize my proficiency in cloud computing and automation to enhance operational efficiency.
 <!-- Projects -->
 
 <h2 align="center">What I'm up To</h2>
